@@ -41,3 +41,7 @@ cafe-aroma-db/
 ├── script_create_database.sql    # Script principal para criação do banco
 ├── README.md                     # Documentação do projeto
 └── LICENSE                       # Licença MIT (opcional)
+```
+
+## DER
+![](https://github.com/GreisonTI38/Projeto_cafe-aroma/blob/main/Img/AULA08-20250716-GREISSON-PAULO-VERSAO22HORAS.png)
